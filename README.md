@@ -1,1 +1,119 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lola-Baie MALLORDY</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+</head>
+<body bgcolor="#ea9055">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+      <img src="lola.jpeg" style="width:100%; height:auto; display:block; margin-left:auto; margin-right:auto; border-radius:10px;">
+    
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+          <div class="w3-display-container">
+            <p><h2>Lola-Baie Mallordy</h2></p>
+          </div>
+        </div>
+        <div class="w3-container">
+          <p><i style="color:#e75B00;" class="fa fa-briefcase fa-fw w3-margin-right w3-large"></i>PhD student at l'Ecole Polytechnique, INRIA Saclay team GRACE (soon to be SURYCAT)</p>
+          <p><i style="color:#e75B00;" class="fa fa-home fa-fw w3-margin-right w3-large"></i>Palaiseau, France</p>
+          <p><i style="color:#e75B00;" class="fa fa-envelope fa-fw w3-margin-right w3-large"></i>lola-baie.mallordy@inria.fr lola.MALLORDY@lix.polytechnique.fr</p>
+          <hr>
+
+         
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+    
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i style="color:#e75B00;" class="fa fa-graduation-cap fa-fw w3-margin-right w3-xxlarge"></i>Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>PhD at LIX, INRIA team GRACE</b></h5>
+          <h6 style="color:#e75B00;"><i class="fa fa-calendar fa-fw w3-margin-right"></i>march 2024 &ndash; <span style="background-color:#e75B00; color:white;" class="w3-tag w3-round">Current</span></h6>
+          <p>“Protocoles Post-quantiques respectueux de la vie privée” directed by 
+<a href="https://blazy.eu/">Olivier Blazy</a>. </p>
+          <hr>
+          <h5 class="w3-opacity"><b>Master Parcours mathématiques de l'information, cryptographie
+</b></h5>
+          <h6 style="color:#e75B00;" ><i class="fa fa-calendar fa-fw w3-margin-right"></i>2021 &ndash; 2023</h6>
+          <p><i>Université Rennes 1</i></p>
+            <p> master thesis "Etude, spécification et implémentation d'un chiffrement homomorphe ad-hoc basé sur RLWE" with Astran & LIMOS</p>
+          <hr>
+          <h5 class="w3-opacity"><b>Bachelor & Master in mathematics</b></h5>
+          <h6 style="color:#e75B00;" ><i class="fa fa-calendar fa-fw w3-margin-right"></i>2016 &ndash; 2021 </h6>
+          <p><i>Université Clermont Auvergne</i></p>
+            <p>master thesis "La conjecture d'Artin sur les corps de fonction" directed by Richard Griffon</p>
+        </div>
+        <div class="w3-container">
+          </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i style="color:#e75B00;" class="fa fa-pencil-square-o fa-fw w3-margin-right w3-xxlarge"></i>Publications</h2>
+        <div class="w3-container">
+          <p><i>Pascal Lafourcade, Lola-Baie Mallordy, Charles Olivier-Anclin, Léo Robert.</i> <b>Secure Keyless Multi-Party Storage Scheme.</b> ESORICS, Sep 2024, Bydgoszcz, Poland 
+<a href="https://hal.science/hal-04540895v1">(pdf here)</a>
+</p>
+          <p><i>Shohei Kaneko, Pascal Lafourcade, Lola-Baie Mallordy, Daiki Miyahara, Maxime Puys.</i><b> Balance-Based ZKP Protocols for Pencil-and-Paper Puzzles. </b>ISC, Oct 2024, Washington DC, USA. 
+<a href="https://uca.hal.science/hal-04671562v2/document">(pdf here)</a>
+</p>
+          <p><i>Daniel Augot, Olivier Blazy, Hugo Delavenne, Lola-Baie Mallordy.</i> <b>Bivariate proximity test-based Asynchronous Verifiable Secret Sharing.</b> Africacrypt 2025. <a href="https://eprint.iacr.org/2026/553">(pdf here)</a>
+</p>
+          <p><i>Hugo Delavenne, Lola-Baie Mallordy.</i> <b>Graph-based Asynchrony for Any Linear Verifiable Secret Sharing Scheme.</b> ICICS 2026. <a href="https://hal.science/hal-04986307v1/document">(pdf here)</a>
+</p>
+        <hr>
+        <h5 class="w3-opacity"><b> PrePrints
+</b></h5>
+          <p><i>Olivier Blazy, Lola-Baie Mallordy.</i> <b>Threshold Reporting Protocol for Traceability in Anonymous Social Networks.</b> <a href="https://eprint.iacr.org/2025/1873">(pdf here)</a>
+</p>
+        </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i style="color:#e75B00;" class="fa fa-book fa-fw w3-margin-right w3-xxlarge"></i>Teaching (Polytechnique)</h2>
+        <div class="w3-container">
+          <p><b style="color:#e75B00;">Introduction à l'informatique</b> (Java course, 1st year), 2023 &ndash; 2024</p>
+          <p><b style="color:#e75B00;">Les bases de la programmation et de l'algorithmique</b> (Java course, 2nd year), 2024 &ndash; 2025 
+</p>
+          <p><b style="color:#e75B00;">Cryptologie Avancée</b> (3rd year) 2024 &ndash; 2025.
+</p>
+        </div>
+      </div>
+
+
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+
+<footer style="background-color:#e75B00; color:white;" class="w3-container w3-center w3-margin-top">
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
+
+</body>
+</html>
